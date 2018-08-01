@@ -3,9 +3,8 @@ module Example exposing (..)
 import Expect exposing (Expectation)
 import Fuzz exposing (Fuzzer, list, int, string)
 import Test exposing (..)
-import Main
 
 
 suite : Test
 suite =
-  todo "Implement our first test. See http://package.elm-lang.org/packages/elm-community/elm-test/latest for how to do this!"
+    todo "Implement our first test. See http://package.elm-lang.org/packages/elm-community/elm-test/latest for how to do this!"
